@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gerador-de-caca-palavras/static/css/main.cf11fda9.chunk.css",
+    "main.js": "/gerador-de-caca-palavras/static/js/main.41a86df5.chunk.js",
+    "main.js.map": "/gerador-de-caca-palavras/static/js/main.41a86df5.chunk.js.map",
+    "runtime-main.js": "/gerador-de-caca-palavras/static/js/runtime-main.962cbbab.js",
+    "runtime-main.js.map": "/gerador-de-caca-palavras/static/js/runtime-main.962cbbab.js.map",
+    "static/js/2.fbdda6d6.chunk.js": "/gerador-de-caca-palavras/static/js/2.fbdda6d6.chunk.js",
+    "static/js/2.fbdda6d6.chunk.js.map": "/gerador-de-caca-palavras/static/js/2.fbdda6d6.chunk.js.map",
+    "index.html": "/gerador-de-caca-palavras/index.html",
+    "precache-manifest.d8c170ac77ba4c0c3b6704289cdd7dfc.js": "/gerador-de-caca-palavras/precache-manifest.d8c170ac77ba4c0c3b6704289cdd7dfc.js",
+    "service-worker.js": "/gerador-de-caca-palavras/service-worker.js",
+    "static/css/main.cf11fda9.chunk.css.map": "/gerador-de-caca-palavras/static/css/main.cf11fda9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.962cbbab.js",
+    "static/js/2.fbdda6d6.chunk.js",
+    "static/css/main.cf11fda9.chunk.css",
+    "static/js/main.41a86df5.chunk.js"
+  ]
+}
