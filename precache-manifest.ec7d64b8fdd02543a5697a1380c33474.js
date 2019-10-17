@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bcddc4eca34f16c60cae593082fdc21",
+    "revision": "fc136e6a1053abb89cdcf07cb15c909d",
     "url": "/gerador-de-caca-palavras/index.html"
   },
   {
-    "revision": "87353a1b291fd9bbeb2a",
+    "revision": "c1b92267988286beb0d2",
     "url": "/gerador-de-caca-palavras/static/css/main.4d83b8c8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gerador-de-caca-palavras/static/js/2.fbdda6d6.chunk.js"
   },
   {
-    "revision": "87353a1b291fd9bbeb2a",
-    "url": "/gerador-de-caca-palavras/static/js/main.41a86df5.chunk.js"
+    "revision": "c1b92267988286beb0d2",
+    "url": "/gerador-de-caca-palavras/static/js/main.ede13c1d.chunk.js"
   },
   {
     "revision": "16fd8168b9abeb5cb29b",

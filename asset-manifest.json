@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gerador-de-caca-palavras/static/css/main.4d83b8c8.chunk.css",
-    "main.js": "/gerador-de-caca-palavras/static/js/main.41a86df5.chunk.js",
-    "main.js.map": "/gerador-de-caca-palavras/static/js/main.41a86df5.chunk.js.map",
+    "main.js": "/gerador-de-caca-palavras/static/js/main.ede13c1d.chunk.js",
+    "main.js.map": "/gerador-de-caca-palavras/static/js/main.ede13c1d.chunk.js.map",
     "runtime-main.js": "/gerador-de-caca-palavras/static/js/runtime-main.962cbbab.js",
     "runtime-main.js.map": "/gerador-de-caca-palavras/static/js/runtime-main.962cbbab.js.map",
     "static/js/2.fbdda6d6.chunk.js": "/gerador-de-caca-palavras/static/js/2.fbdda6d6.chunk.js",
     "static/js/2.fbdda6d6.chunk.js.map": "/gerador-de-caca-palavras/static/js/2.fbdda6d6.chunk.js.map",
     "index.html": "/gerador-de-caca-palavras/index.html",
-    "precache-manifest.6f76e9b85eb634f3e10283bdeb255147.js": "/gerador-de-caca-palavras/precache-manifest.6f76e9b85eb634f3e10283bdeb255147.js",
+    "precache-manifest.ec7d64b8fdd02543a5697a1380c33474.js": "/gerador-de-caca-palavras/precache-manifest.ec7d64b8fdd02543a5697a1380c33474.js",
     "service-worker.js": "/gerador-de-caca-palavras/service-worker.js",
     "static/css/main.4d83b8c8.chunk.css.map": "/gerador-de-caca-palavras/static/css/main.4d83b8c8.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.962cbbab.js",
     "static/js/2.fbdda6d6.chunk.js",
     "static/css/main.4d83b8c8.chunk.css",
-    "static/js/main.41a86df5.chunk.js"
+    "static/js/main.ede13c1d.chunk.js"
   ]
 }

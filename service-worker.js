@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gerador-de-caca-palavras/precache-manifest.6f76e9b85eb634f3e10283bdeb255147.js"
+  "/gerador-de-caca-palavras/precache-manifest.ec7d64b8fdd02543a5697a1380c33474.js"
 );
 
 self.addEventListener('message', (event) => {
