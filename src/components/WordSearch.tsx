@@ -45,7 +45,7 @@ function WordSearch ({ words, size, modes, debug, highlightWords }: WordSearchPr
     words.forEach(word => {
       if (/^[A-Za-z]+$/.test(word)) {
         createWord(
-          word,
+          word.toUpperCase(),
           table,
           size,
           shuffleArray(points),
