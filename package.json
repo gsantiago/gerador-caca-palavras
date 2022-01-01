@@ -2,7 +2,7 @@
   "name": "gerador-caca-palavras",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gsantiago.github.io",
+  "homepage": "https://gsantiago.github.io/gerador-caca-palavras/",
   "dependencies": {
     "@types/jest": "24.0.19",
     "@types/node": "12.7.12",
