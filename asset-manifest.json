@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gerador-caca-palavras/static/css/main.4d83b8c8.chunk.css",
+    "main.css": "/gerador-caca-palavras/static/css/main.e090df53.chunk.css",
     "main.js": "/gerador-caca-palavras/static/js/main.a87d5ddc.chunk.js",
     "main.js.map": "/gerador-caca-palavras/static/js/main.a87d5ddc.chunk.js.map",
     "runtime-main.js": "/gerador-caca-palavras/static/js/runtime-main.cf41fa61.js",
@@ -8,14 +8,14 @@
     "static/js/2.16d58277.chunk.js": "/gerador-caca-palavras/static/js/2.16d58277.chunk.js",
     "static/js/2.16d58277.chunk.js.map": "/gerador-caca-palavras/static/js/2.16d58277.chunk.js.map",
     "index.html": "/gerador-caca-palavras/index.html",
-    "precache-manifest.cc15d73e3c1871049b20b1a940e90728.js": "/gerador-caca-palavras/precache-manifest.cc15d73e3c1871049b20b1a940e90728.js",
+    "precache-manifest.a21094bf8dc9964e846c6c1b5ed3d899.js": "/gerador-caca-palavras/precache-manifest.a21094bf8dc9964e846c6c1b5ed3d899.js",
     "service-worker.js": "/gerador-caca-palavras/service-worker.js",
-    "static/css/main.4d83b8c8.chunk.css.map": "/gerador-caca-palavras/static/css/main.4d83b8c8.chunk.css.map"
+    "static/css/main.e090df53.chunk.css.map": "/gerador-caca-palavras/static/css/main.e090df53.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.cf41fa61.js",
     "static/js/2.16d58277.chunk.js",
-    "static/css/main.4d83b8c8.chunk.css",
+    "static/css/main.e090df53.chunk.css",
     "static/js/main.a87d5ddc.chunk.js"
   ]
 }
