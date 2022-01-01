@@ -1,8 +1,8 @@
 {
-  "name": "gerador-de-caca-palavras",
+  "name": "gerador-caca-palavras",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gsantiago.github.io/gerador-de-caca-palavras",
+  "homepage": "https://gsantiago.github.io",
   "dependencies": {
     "@types/jest": "24.0.19",
     "@types/node": "12.7.12",
